@@ -1,0 +1,4 @@
+framework module TridentityHeadlessSDK {
+  header "TridentityHeadlessSDK-Swift.h"
+  requires objc
+}
